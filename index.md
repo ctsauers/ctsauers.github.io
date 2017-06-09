@@ -1,6 +1,12 @@
-# Hello World
+# CIT Code Portfolio
 
-[My Hello World Repo](https://github.com/ctsauers/hello-world)
+This is a code portfolio from CIT 281. This class involved the use of Git, Jquery, AJAX, JSON, and Unix. Below are links to the projects completed in this course.
+
+[Project 2 project page](https://uo-cit.github.io/p2-17S-ctsauers)
+
+[Project 3 project page](https://uo-cit.github.io/p3-17S-ctsauers)
+
+[Project 4 project page](https://uo-cit.github.io/p4-17S-ctsauers/)
 
 
 ![github social coding logo](images/281-images.PNG)
